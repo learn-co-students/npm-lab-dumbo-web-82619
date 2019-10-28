@@ -1,0 +1,25 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "(program that changes clock color each second)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangrammer/npm-lab-dumbo-web-82619.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "dangrammer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangrammer/npm-lab-dumbo-web-82619/issues"
+  },
+  "homepage": "https://github.com/dangrammer/npm-lab-dumbo-web-82619#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
